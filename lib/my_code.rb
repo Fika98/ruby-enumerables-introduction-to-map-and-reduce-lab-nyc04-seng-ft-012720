@@ -46,7 +46,7 @@ def reduce_to_total(source_array, starting_point)
   i += 1
   max = total + starting_point
   end 
-  max = total + starting_point
+  max
 end 
 
 
