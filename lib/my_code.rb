@@ -48,14 +48,7 @@ def reduce_to_total(source_array, starting_point)
   total
 end 
 
-def reduce_to_total(source_array, starting_point)
-  total = 6 
-  
-  max = total + starting_point
-  
-  
-  
-end 
+
 
 
   
